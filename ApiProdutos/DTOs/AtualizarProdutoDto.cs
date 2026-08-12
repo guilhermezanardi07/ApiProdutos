@@ -11,3 +11,5 @@ public class AtualizarProdutoDto
     public decimal Preco { get; set; }
     [Range(0, int.MaxValue)]
     public int QuantidadeEstoque { get; set; }
+    public bool Ativo { get; set; }
+}
