@@ -14,7 +14,10 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c247f8e7-60d0-4d61-9c65-83cca7ceeb72" name="Changes" comment="" />
+    <list default="true" id="c247f8e7-60d0-4d61-9c65-83cca7ceeb72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ApiProdutos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ApiProdutos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiProdutos/ApiProdutos.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ApiProdutos/ApiProdutos.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1786535072772</updated>
       <workItem from="1786535083007" duration="1612000" />
-      <workItem from="1787137293580" duration="1366000" />
+      <workItem from="1787137293580" duration="1798000" />
     </task>
     <servers />
   </component>
